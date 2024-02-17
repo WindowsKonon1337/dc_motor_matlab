@@ -1,4 +1,7 @@
 # dc_motor_matlab
-## Initial commit
-### dev branch
-DC motor matlab model
+
+### Как выполнялся 3й пункт:
+```bash
+git checkout dev
+git merge feature-viscous_friction
+```
