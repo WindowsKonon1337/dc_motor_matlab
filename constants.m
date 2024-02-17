@@ -4,3 +4,6 @@ C_omega = 3.15;
 L_anch = 15 * 10^-4;
 R_anch = 8;
 L_ov = 0.013;
+
+%% viscous friction
+beta = 10^-3;
